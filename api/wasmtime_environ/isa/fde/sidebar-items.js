@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["map_reg","Map Cranelift registers to their corresponding Gimli registers."]]});
